@@ -1,0 +1,8 @@
+.para {
+    width: 60%;
+    margin: auto;
+    border: 1px solid rgb(206, 196, 196);
+    box-shadow: 0, 2px 3px rgb(189, 128, 128);
+    padding: 16px;
+    text-align: center;
+}
